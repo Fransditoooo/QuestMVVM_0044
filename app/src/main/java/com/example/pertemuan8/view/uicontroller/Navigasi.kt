@@ -13,9 +13,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.example.pertemuan8.model.DataJK.JenisK
-import com.example.pertemuan8.view.FormSiswa
-import com.example.pertemuan8.view.TampilSiswa
-import com.example.pertemuan8.viewmodel.SiswaViewModel
+import com.example.pertemuan8.viewModel.SiswaViewModel
 
 enum class Navigasi {
     Formulir,
